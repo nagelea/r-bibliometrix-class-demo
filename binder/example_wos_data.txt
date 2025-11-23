@@ -1,0 +1,57 @@
+FN Clarivate Analytics Web of Science
+VR 1.0
+
+PT J
+AU Smith J
+   Zhang W
+TI Example study on bibliometric analysis using R
+SO Journal of Example Studies
+PY 2020
+DE bibliometrics; R language; science mapping
+ID bibliometrix; citespace; co-citation
+AB This is a synthetic example record for teaching purposes.
+ER
+
+PT J
+AU Li H
+   Garcia M
+TI Visualizing research fronts with co-citation networks
+SO Scientometric Tutorials
+PY 2021
+DE co-citation; network analysis; visualization
+ID knowledge mapping; clustering
+AB This is a synthetic record for classroom demonstration.
+ER
+
+PT J
+AU Wang Y
+TI Keywords co-occurrence analysis in information science
+SO Information Science Review
+PY 2019
+DE co-occurrence; keywords; science mapping
+ID topic evolution; bibliometrics
+AB Another teaching sample record.
+ER
+
+PT J
+AU Chen L
+   Rossi P
+TI Collaboration networks in artificial intelligence research
+SO AI Research Letters
+PY 2018
+DE collaboration; co-authorship; artificial intelligence
+ID social network analysis
+AB Sample record for collaboration analysis demonstration.
+ER
+
+PT J
+AU Kim S
+TI Thematic evolution of data science research
+SO Data Science Journal
+PY 2022
+DE thematic evolution; data science; research trends
+ID thematic mapping; MCA
+AB Example record to show thematic analysis.
+ER
+
+EF
